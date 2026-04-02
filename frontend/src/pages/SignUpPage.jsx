@@ -10,7 +10,6 @@ function SignUpPage() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Form Submitted")
     signup(formData);
   };
 

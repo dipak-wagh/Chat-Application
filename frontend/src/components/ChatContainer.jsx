@@ -32,6 +32,8 @@ function ChatContainer() {
     }
   }, [messages]);
 
+  
+
   return (
     <>
       <ChatHeader />
